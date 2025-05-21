@@ -27,7 +27,7 @@ Repositório acadêmico para armazenar exercícios, relatórios e projetos desen
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Izalp/Laboratorio_C103.git
+   git clone https://github.com/labs-inatel/Laboratorio_C103.git
    ```
 
 2. Acesse a pasta do projeto:
