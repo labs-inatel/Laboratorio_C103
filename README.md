@@ -2,18 +2,20 @@
 
 Repositório acadêmico para armazenar exercícios, relatórios e projetos desenvolvidos nas aulas da disciplina **C202 - Algoritmos e Estruturas de Dados II**.
 
+```
 📁 Laboratorio_C103
-├── Alocacao/ → Gerenciamento dinâmico de memória
-├── Funcao_Recursiva/ → Prática com chamadas recursivas
-├── Funcoes_Busca/ → Algoritmos de busca (linear, binária, etc.)
-├── Funcoes_Ordenacao/ → Métodos de ordenação (bubble, quicksort, merge...)
-├── Hashing/ → Implementação de tabelas de dispersão (hash tables)
-├── Leitura_Arquivo/ → Manipulação e leitura de arquivos
-├── Lista_de_Adjacentes/ → Representação de grafos com listas de adjacência
-├── Listas_Pilhas_e_Filas/ → Implementação de listas, pilhas e filas
-├── MemoriaRam/ → Simulação e entendimento da alocação em RAM
-├── Ponteiros/ → Conceitos e aplicações com ponteiros
-└── Troca_e_particao/ → Técnicas de partição e troca de elementos
+├── Alocacao/                → Gerenciamento dinâmico de memória
+├── Funcao_Recursiva/        → Prática com chamadas recursivas
+├── Funcoes_Busca/           → Algoritmos de busca (linear, binária, etc.)
+├── Funcoes_Ordenacao/       → Métodos de ordenação (bubble, quicksort, merge...)
+├── Hashing/                 → Implementação de tabelas de dispersão (hash tables)
+├── Leitura_Arquivo/         → Manipulação e leitura de arquivos
+├── Lista_de_Adjacentes/     → Representação de grafos com listas de adjacência
+├── Listas_Pilhas_e_Filas/   → Implementação de listas, pilhas e filas
+├── MemoriaRam/              → Simulação e entendimento da alocação em RAM
+├── Ponteiros/               → Conceitos e aplicações com ponteiros
+└── Troca_e_particao/        → Técnicas de partição e troca de elementos
+```
 
 ## Tecnologias Utilizadas
 
