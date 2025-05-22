@@ -1,6 +1,10 @@
 # C103 - Algoritmos e Estruturas de Dados II
 
+![C++](https://img.shields.io/badge/C++-239120?style=flat&logo=c++&logoColor=white)
+
 Repositório acadêmico para armazenar exercícios, relatórios e projetos desenvolvidos nas aulas da disciplina **C202 - Algoritmos e Estruturas de Dados II**.
+
+## Estrutura do Repositório
 
 ```
 📁 Laboratorio_C103
